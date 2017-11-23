@@ -1,0 +1,49 @@
+aside > span.title{
+	font-family: "DIN Medium";
+	letter-spacing: 5px;
+}
+
+aside span.desc{
+	font-family: "DIN Light";
+}
+
+aside ul.menu li a{
+	font-family: "DIN Medium";
+	letter-spacing: 5px;
+}
+
+aside div.contact span.title{
+	font-family: "DIN Medium";
+	letter-spacing: 5px;
+}
+
+aside div.contact{
+	font-family: "DIN Medium";
+	letter-spacing: 3px;
+}
+
+main h2{
+	font-family: "DIN Alternate Regular";
+	font-weight: normal;
+}
+
+main a.more{
+	font-family: "DIN Alternate Bold";
+	letter-spacing: 5px;
+}
+
+main div.cat div.design h2, main div.cat div.branding h2, main div.cat div.development h2{
+	font-family: "DIN Alternate Bold";
+}
+
+main div.cat div.design p, main div.cat div.branding p, main div.cat div.development p{
+	font-family: "DIN Alternate Regular";
+}
+
+main section.works div.header div.desc span.smalldesc, main section.works div.header div.desc span.title{
+	font-family: "DIN Alternate Bold";
+	font-weight: normal;
+}
+main section.works div.header div.desc span.website, main section.works div.header div.view a.visit, main section.works div.header div.view a.viewproject{
+	font-family: "DIN Alternate Regular";
+}
